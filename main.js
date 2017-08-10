@@ -31,7 +31,7 @@ fetch(request).then(function(response) {
 
         customers.appendChild(img);
         customers.appendChild(header);
-       console.log("Finished");
+
      }
    })
 
